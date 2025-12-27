@@ -5,14 +5,6 @@ The project focuses on delivering interactive educational content and features a
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **Website:**  
-https://your-live-demo-link.com  
-*(replace with the actual deployment link if available)*
-
----
-
 ## 🛠 Tech Stack
 
 - **Frontend:** React.js, JavaScript (ES6+)

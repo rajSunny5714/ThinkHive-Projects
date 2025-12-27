@@ -1,8 +1,38 @@
-# React + Vite
+# 📚 Edusity – Think Hive Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **educational platform** built to enhance learning experiences using modern web technologies.  
+The project focuses on delivering interactive educational content and features a user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+
+🔗 **Website:**  
+https://your-live-demo-link.com  
+*(replace with the actual deployment link if available)*
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js, JavaScript (ES6+)
+- **Styling:** CSS / Tailwind CSS
+- **Backend:** (if applicable) Node.js / Spring Boot / other
+- **APIs:** RESTful APIs (for content and data)
+- **Deployment:** Vercel / Netlify / other
+- **Version Control:** Git & GitHub
+
+---
+
+## ✨ Features
+
+- Responsive design for all devices
+- Interactive educational content and quizzes
+- Course and module listing
+- Search and filter functionality
+- User-friendly interface
+- Scalable and maintainable architecture
+
+
+## 📁 Project Structure
+
